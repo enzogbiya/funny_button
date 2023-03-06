@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/funny_button/static/css/main.4bcff6a3.css",
+    "main.js": "/funny_button/static/js/main.3d0af1d7.js",
+    "static/media/font.ttf": "/funny_button/static/media/font.2be4a49a17700938dbc0.ttf",
+    "index.html": "/funny_button/index.html",
+    "main.4bcff6a3.css.map": "/funny_button/static/css/main.4bcff6a3.css.map",
+    "main.3d0af1d7.js.map": "/funny_button/static/js/main.3d0af1d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bcff6a3.css",
+    "static/js/main.3d0af1d7.js"
+  ]
+}
